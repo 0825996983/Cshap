@@ -1,0 +1,15 @@
+C:\Users\QUANG BIEN\source\repos\hocC#\hocC#\bin\Debug\net6.0\hocC#.exe
+C:\Users\QUANG BIEN\source\repos\hocC#\hocC#\bin\Debug\net6.0\hocC#.deps.json
+C:\Users\QUANG BIEN\source\repos\hocC#\hocC#\bin\Debug\net6.0\hocC#.runtimeconfig.json
+C:\Users\QUANG BIEN\source\repos\hocC#\hocC#\bin\Debug\net6.0\hocC#.dll
+C:\Users\QUANG BIEN\source\repos\hocC#\hocC#\bin\Debug\net6.0\hocC#.pdb
+C:\Users\QUANG BIEN\source\repos\hocC#\hocC#\obj\Debug\net6.0\hocC#.csproj.AssemblyReference.cache
+C:\Users\QUANG BIEN\source\repos\hocC#\hocC#\obj\Debug\net6.0\hocC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QUANG BIEN\source\repos\hocC#\hocC#\obj\Debug\net6.0\hocC#.AssemblyInfoInputs.cache
+C:\Users\QUANG BIEN\source\repos\hocC#\hocC#\obj\Debug\net6.0\hocC#.AssemblyInfo.cs
+C:\Users\QUANG BIEN\source\repos\hocC#\hocC#\obj\Debug\net6.0\hocC#.csproj.CoreCompileInputs.cache
+C:\Users\QUANG BIEN\source\repos\hocC#\hocC#\obj\Debug\net6.0\hocC#.dll
+C:\Users\QUANG BIEN\source\repos\hocC#\hocC#\obj\Debug\net6.0\refint\hocC#.dll
+C:\Users\QUANG BIEN\source\repos\hocC#\hocC#\obj\Debug\net6.0\hocC#.pdb
+C:\Users\QUANG BIEN\source\repos\hocC#\hocC#\obj\Debug\net6.0\hocC#.genruntimeconfig.cache
+C:\Users\QUANG BIEN\source\repos\hocC#\hocC#\obj\Debug\net6.0\ref\hocC#.dll
